@@ -1,17 +1,3 @@
-{
-  "name": "app",
-  "version": "1.0.0",
-  "main": "service.js",
-  "repository": "",
-  "scripts": {
-    "start": "node service.js"
-  },
-  "dependencies": {
-    "express": "^4.16.2"
-  }
-}
-
-
 "scripts": {
     "lint": "./node_modules/.bin/eslint --ext .js,.jsx --ignore-pattern public .",
     "develop": "gatsby develop",
